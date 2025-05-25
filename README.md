@@ -1,6 +1,6 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-### NAME: ASIN VARDHINI R
-### REG NO: 212222100007
+### NAME: VIMALA SAHANA W
+### REG NO: 212223040241
 ## Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
